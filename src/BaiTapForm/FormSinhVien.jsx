@@ -165,4 +165,4 @@ const mapStateToProps = (state) => ({
     sinhVien: state.QuanLySinhVienReducer.sinhVien,
 });
 
-export default connect(mapStateToProps)(FormSinhVien);
+export default connect(mapStateToProps)(FormSinhVien);D
